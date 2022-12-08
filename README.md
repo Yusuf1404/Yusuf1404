@@ -1,16 +1,30 @@
 ### Hi there 👋
+My name is Yusuf 
 
 <!--
-**Yusuf1404/Yusuf1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Stuff that im currently working on:
+Vue
+Messages - rabbitmq
+Blazor- Razor pages
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stuff I worked with:
+C# -.Net
+ORM - Entity framework - dapper
+Microservices
+MSSQL- Stored Procedures
+Ionic
+Wpf
+MongoDB
+Python
+Html-css
+Angular
+Wordpress
+Socket programming
+Unit testing
+Docker - Replication
+Javascript
+HTML
+CSS
+
+      
